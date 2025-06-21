@@ -2,7 +2,7 @@
 
 Hi, I am *Amit Tiwari* 👋
  
-🎓 *Pre-final year Computer Science Student at RGPV University*  
+🎓 *Final year Computer Science Student at RGPV University*  
 🎯 Passionate about *Backend Development* and *Web Development*        
 ✔️ Passionate CS student with a strong foundation in data structures and algorithms.  
 ✔️ Fascinated by problem-solving, particularly in data structures, and always eager to tackle challenging problems.    
