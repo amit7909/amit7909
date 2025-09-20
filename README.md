@@ -1,47 +1,111 @@
-# 💫 About Me:
+<!-- Short Intro -->
+<h3>👋 Hi, I'm Amit Tiwari</h3>
 
-Hi, I am *Amit Tiwari* 👋
- 
-🎓 *Final year Computer Science Student at RGPV University*  
-🎯 Passionate about *Backend Development* and *Web Development*        
-✔️ Passionate CS student with a strong foundation in data structures and algorithms.  
-✔️ Fascinated by problem-solving, particularly in data structures, and always eager to tackle challenging problems.    
-✔️ Currently delving deep into Data Structures using Java, while also exploring web development, with a strong focus on backend development to enhance my understanding and skills.   
-💡 Always looking for *collaboration opportunities* on exciting projects!  
+🎓 Final Year Computer Science Student at RGPV University  
+🎯 Passionate about Backend Development and Web Development  
+✔️ Strong foundation in Data Structures and Algorithms  
+✔️ Fascinated by problem-solving and always eager to tackle challenging problems  
+✔️ Currently delving deep into Data Structures using Java while exploring Web Development, with a strong focus on Backend Development to enhance my skills  
+💡 Always looking for collaboration opportunities on exciting projects  
 
----
-
-## 🌟 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/amit7909)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/amit_7909)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_amit_7909)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@AmitTiwari79099)
----
-
-## 💻 Tech Stack:
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) 
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
+### 👋 About Me
+- 🌱 Currently learning **Backend Technologies and Advanced Java**  
+- 💬 Ask me about **Java, Backend Development, Web Development, DSA**  
+- 📫 Reach me at **[amittiwari79099@gmail.com](mailto:amittiwari79099@gmail.com)**  
 
 
----
+<!-- Skills Section -->
+<div>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> &ensp; <b>Tech Stack</b>  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>  
 
-## 📊 GitHub Stats:
+### 🖥️ Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,py" />
+</p>
 
-![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amit7909&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amit7909&layout=compact&theme=radical)
----
+### ⚙️ Frameworks & Libraries  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+</p>
 
-## 🔥 Get in Touch:
+### 🗄️ Databases  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-Feel free to connect with me for any collaborations, discussions, or just a quick chat. Let's create something awesome together! 😊
+### 🛠️ Tools & Platforms  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker" />
+</p>
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes" />
+</p>
+
+<!-- GitHub Stats -->
+<h3 id="stats" align="left">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &ensp;<b>Stats</b>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</h3>
+
+<div align="center">
+  <a href="https://github.com/amit7909">
+    <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit7909&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/amit7909">
+    <img width="410" src="https://github-readme-stats.vercel.app/api?username=amit7909&show_icons=true&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/amit7909">
+    <img width="430" src="https://github-readme-streak-stats.herokuapp.com/?user=amit7909&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+<!-- WakaTime Stats -->
+<div align="center" style="margin-top: 20px;">
+  <a href="https://wakatime.com/@amit_060">
+    <img width="410" src="https://github-readme-stats.vercel.app/api/wakatime?username=@amit_060&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  </a>
+</p>
+
+<!-- SUPPORT -->
+
+<div>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> &ensp; <b>Support Me</b>  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/amit_060" target="_blank">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
+  </a>
+</p>
+
+<!-- CONTACT ME -->
+<div>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> &ensp; <b>Connect Me</b>  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<p align="center">
+  <a href="https://github.com/amit7909" target="_blank">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/amit060/" target="_blank">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/hustlecrate_amit/" target="_blank">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg" alt="Instagram">
+  </a>
+  <a href="https://x.com/amit_060" target="_blank">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Twitter">
+  </a>
+</p>
