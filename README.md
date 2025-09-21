@@ -65,9 +65,11 @@
 <!-- WakaTime Stats -->
 <div align="center" style="margin-top: 20px;">
   <a href="https://wakatime.com/@amit_060">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/wakatime?username=@amit_060&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
+    <img width="410" src="https://github-readme-stats.vercel.app/api/wakatime?username=amit_060&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Stats"/>
   </a>
 </div>
+
+
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
